@@ -1,1 +1,10 @@
-
+{
+  "extends": "minimal",
+  "scene": {
+    "debug": true
+  },
+  "engine": {
+    "antialiasing": false
+  },
+  "model": "https://raw.githubusercontent.com/r-nold/babylon-testing/master/schoen.glb"
+}
