@@ -1,4 +1,5 @@
 let cubeLogo = document.getElementById('logo3d');
+let textvar = 1000;
 
 let viewer = new BabylonViewer.DefaultViewer(cubeLogo, {
   scene: {
