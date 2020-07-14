@@ -1,5 +1,10 @@
 {
   "scene": {
     "debug": true
+  },
+  "camera": {
+    "behaviors": {
+      "autoRotate": 1
+    }
   }
 }
