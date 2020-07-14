@@ -6,5 +6,7 @@
   "engine": {
     "antialiasing": false
   },
-  "model": "https://raw.githubusercontent.com/r-nold/babylon-testing/master/schoen.glb"
+  "model": {
+    "url": "https://raw.githubusercontent.com/r-nold/babylon-testing/master/schoen.glb"
+  }
 }
