@@ -1,6 +1,6 @@
-let domElement = document.getElementById('logo3d');
+let cubeLogo = document.getElementById('logo3d');
 
-let viewer = new BabylonViewer.DefaultViewer(domElement, {
+let viewer = new BabylonViewer.DefaultViewer(cubeLogo, {
   scene: {
     debug: true,
   },
