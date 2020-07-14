@@ -5,8 +5,5 @@
   },
   "engine": {
     "antialiasing": false
-  },
-  "model": {
-    "url": "https://raw.githubusercontent.com/r-nold/babylon-testing/master/schoen.glb"
   }
 }
