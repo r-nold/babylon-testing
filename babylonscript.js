@@ -10,6 +10,7 @@ let viewer = new BabylonViewer.DefaultViewer(domElement, {
     },
   },
   model: {
-    url: 'https://playground.babylonjs.com/scenes/Rabbit.babylon',
+    url:
+      'https://raw.githubusercontent.com/r-nold/babylon-testing/master/ID-cube.glb',
   },
 });
