@@ -1,9 +1,5 @@
 {
-  "extends": "minimal",
   "scene": {
     "debug": true
-  },
-  "engine": {
-    "antialiasing": false
   }
 }
